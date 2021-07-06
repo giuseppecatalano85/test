@@ -3,6 +3,7 @@ public class Pippo {
 		Sysout.out.println("Prima stampa");
 		Sysout.out.println("Print 2");
 		Sysout.out.println("Print 3");		
-		Sysout.out.println("Print 4");	
+		Sysout.out.println("Print 4");
+		// 5
 	}
 }
